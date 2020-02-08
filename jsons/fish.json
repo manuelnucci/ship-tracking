@@ -1,0 +1,8 @@
+{
+    "_id": "id",
+    "_rev": "revision",
+    "properties": {
+        "name": "nombre"
+    },
+    "type": "Fish"
+}

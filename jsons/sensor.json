@@ -1,0 +1,9 @@
+{
+    "_id": "id",
+    "_rev": "revision",
+    "properties": {
+        "description": "descripción",
+        "unit": "unidad de medida"
+    },
+    "type": "Sensor"
+}

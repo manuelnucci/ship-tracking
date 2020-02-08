@@ -1,0 +1,13 @@
+{
+    "_id": "id",
+    "_rev": "revision",
+    "properties": {
+        "length": "eslora",
+        "weight": "peso",
+        "autonomy": "autonomía",
+        "averageConsumption": "consumo promedio",
+        "staffAmount": "cantidad de personal",
+        "companyId": "empresa"
+    },
+    "type": "Ship"
+}

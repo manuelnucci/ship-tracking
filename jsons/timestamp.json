@@ -1,0 +1,39 @@
+{
+    "_id": "id",
+    "_rev": "revision",
+    "geometry": {
+        "coordinates": [
+            "longitude (x-axis)",
+            "latitude (y-axis)",
+            "height (z-axis)",
+            "temporal (time)"
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "shipId": "id del barco",
+        "waterColumn": "presión",
+        "degreesMagneticNorth": "grados según norte magnético",
+        "magneticDeclination": "corrección entre el norte magnético y el norte verdadero",
+        "speed": "velocidad",
+        "fuelConsumption": "unit?", 
+        "rpms": {
+            "engine-1": "rpm",
+            "engine-2": "rpm"
+        },
+        "distancesFishingNets": [
+            "meters", "meters", "..."
+        ],
+        "sensors": [
+            {
+                "id": "id del sensor",
+                "measure": "registro"
+            },
+            {
+                "id": "id del sensor",
+                "measure": "registro"
+            }
+        ],
+    },
+    "type": "Feature"
+}

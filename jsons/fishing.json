@@ -1,0 +1,18 @@
+{
+    "_id": "id",
+    "_rev": "revision",
+    "properties": {
+        "runnerId": "id del derrotero",
+        "fishing": [
+            {
+                "fishId": "id del pescado",
+                "weigth": "peso"
+            },
+            {
+                "fishId": "id del pescado",
+                "weigth": "peso"
+            }
+        ]
+    },
+    "type": "Fishing"
+}
