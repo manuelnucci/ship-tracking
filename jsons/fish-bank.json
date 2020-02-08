@@ -19,7 +19,7 @@
         ]
     },
     "properties": {
-        "name": "nombre"
+        "description": "descripción"
     },
-    "type": "Harbour"
+    "type": "FishBank"
 }

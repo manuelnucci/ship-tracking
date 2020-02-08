@@ -3,27 +3,18 @@
     "_rev": "revision",
     "properties": {
         "shipId": "id del barco",
-        "departure": {
-            "harbourId": "id del puerto de salida",
-            "date": "fecha de salida"
-        },
         "runner": [
             {
                 "harbourId": "id del puerto",
-                "date": "fecha probable de llegada",
+                "estimatedDate": "fecha probable de llegada",
                 "realDate": "fecha de llegada"
             },
             {
                 "harbourId": "id del puerto",
-                "date": "fecha probable de llegada",
+                "estimatedDate": "fecha probable de llegada",
                 "realDate": "fecha de llegada"
             }
-        ],
-        "arrival": {
-            "harbourId": "id del puerto de llegada",
-            "date": "fecha probable de llegada",
-            "realDate": "fecha de llegada"
-        }
+        ]
     },
     "type": "Runner"
 }

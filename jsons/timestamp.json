@@ -2,13 +2,13 @@
     "_id": "id",
     "_rev": "revision",
     "geometry": {
+        "type": "Point",
         "coordinates": [
             "longitude (x-axis)",
             "latitude (y-axis)",
             "height (z-axis)",
             "temporal (time)"
-        ],
-        "type": "Point"
+        ]
     },
     "properties": {
         "shipId": "id del barco",
@@ -33,7 +33,7 @@
                 "id": "id del sensor",
                 "measure": "registro"
             }
-        ],
+        ]
     },
     "type": "Feature"
 }
