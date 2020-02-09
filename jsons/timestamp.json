@@ -11,7 +11,7 @@
         ]
     },
     "properties": {
-        "shipId": "id del barco",
+        "runnerId": "id del derrotero",
         "waterColumn": "presión",
         "degreesMagneticNorth": "grados según norte magnético",
         "magneticDeclination": "corrección entre el norte magnético y el norte verdadero",
